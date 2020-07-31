@@ -6,6 +6,14 @@ You will need to enter your own API keys in the `src/components/App.js` file to 
 
 An example video showing its usage can be found [here](https://i.imgur.com/ehEVyXS.mp4).
 
+Depends on:
+
+`axios`
+
+`axios-rate-limit`
+
+`react-modal-image`
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
