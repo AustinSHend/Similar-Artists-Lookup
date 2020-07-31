@@ -1,0 +1,14 @@
+.related-artist {
+    display: flex !important;
+    align-items: center !important;
+}
+
+.artist-img {
+    max-width: 150px !important;
+    padding-right: 5px;
+    cursor: pointer;
+}
+
+.artist-desc {
+    cursor: pointer;
+}
