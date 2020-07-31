@@ -1,3 +1,11 @@
+# Similar Artists Lookup
+
+A React-based tool for quickly finding similar artists using the Last.fm, Spotify, and Discogs APIs.
+
+You will need to enter your own API keys in the `src/components/App.js` file to receive any data.
+
+An example video showing its usage can be found [here](https://i.imgur.com/ehEVyXS.mp4).
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
